@@ -1,5 +1,5 @@
 # Getting started with PWABuilder.
-![PWABuilder](https://www.pwabuilder.com/_nuxt/img/new-logo.39c5508.svg "PWABuilder")
+![PWABuilder](https://miro.medium.com/max/412/1*aazVfl00TENKx0DjErtRrA.jpeg "PWABuilder")
 
 
 [PWABuilder](https://www.pwabuilder.com/) was founded by Microsoft as a community guided, open source project to help move PWA adoption forward.
